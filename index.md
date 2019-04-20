@@ -1,5 +1,5 @@
 # Experience
-### Sailor Group UCSD(UCSD) - Student Researcher from May 2017 - Present
+### Sailor Group (UCSD) - Student Researcher from May 2017 - Present
 - Developed a facile modification chemistry process for porous silicon (pSi) stabilization & functionalization
 - Engineered a stable pSi optical nanosensor for real-time identification of toxic organic vapors
 - Served as Jenior Mentor in 2018 Summer School for Silicon Nanotechnology
@@ -15,8 +15,8 @@ AP Calculus AB/BC, AP Chemistry, AP Biology, AP Physics C, AP Computer Science A
 Vice President of Science Olympiad Varsity Team, President of Astronomy & Astrophysics Club
 GPA: 4.40
 
-### Technion Israel Institute of Technology Cousera from January 2018 to March 2017
-Nanotechnology and Nonosensors Part 1 and 2 Certification.
+### Technion Israel Institute of Technology Cousera from March 2017 - April 2017
+Nanotechnology and Nanosensors Part 1 and 2 Certification.
 
 # Publicaitons
 ### Facile, Bench-top Stabilization of Porous Silicon Surfaces with Heterocyclic Silane Grafting Chemistry
