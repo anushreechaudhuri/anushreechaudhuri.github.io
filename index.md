@@ -3,10 +3,11 @@
 - Developed a facile modification chemistry process for porous silicon (pSi) stabilization & functionalization
 - Engineered a stable pSi optical nanosensor for real-time identification of toxic organic vapors
 - Served as Jenior Mentor in 2018 Summer School for Silicon Nanotechnology
+
 ### Boyce Research Initiatives & Educational Foundation (BRIEF) - Student Researcher from January 2017 - Present
-Team lead for photometry & image reduction in the Transiting Exoplanet Satellite Survey (TESS)
-▪ Conducted measurements and data reduction of the inner solar corona in the NASA CATE initiatives
-▪ Mentored a research team in the DoubleSTARs seminar studying characteristics of binary star system
+- Team lead for photometry & image reduction in the Transiting Exoplanet Satellite Survey (TESS)
+-  Conducted measurements and data reduction of the inner solar corona in the NASA CATE initiatives
+- Mentored a research team in the DoubleSTARs seminar studying characteristics of binary star system
 
 # Education
 ### Westview High School from August 2016 - June 2020
