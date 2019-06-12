@@ -2,7 +2,7 @@
 ### Sailor Group (UCSD) - Student Researcher from May 2017 - Present
 - Developed a facile modification chemistry process for porous silicon (pSi) stabilization & functionalization
 - Engineered a stable pSi optical nanosensor for real-time identification of toxic organic vapors
-- Served as Jenior Mentor in 2018 Summer School for Silicon Nanotechnology
+- Served as Junior Mentor in 2018 Summer School for Silicon Nanotechnology
 
 ### Boyce Research Initiatives & Educational Foundation (BRIEF) - Student Researcher from January 2017 - Present
 - Team lead for photometry & image reduction in the Transiting Exoplanet Satellite Survey (TESS)
@@ -18,7 +18,7 @@ GPA: 4.40
 ### Technion Israel Institute of Technology Cousera from March 2017 - April 2017
 Nanotechnology and Nanosensors Part 1 and 2 Certification.
 
-# Publicaitons
+# Publicatons
 ### Facile, Bench-top Stabilization of Porous Silicon Surfaces with Heterocyclic Silane Grafting Chemistry
 Primary Author: In Review for ACS Chemistry of Materials, presented at RCS Nanoscale Horizons (Oct. 2017)
 ### CCD Astrometric Measurements and Historical Data Summary of WDS 12182-4251
@@ -30,7 +30,6 @@ FTIR, Raman, 1H-NMR, UV-Vis, DLS, Zeta-Potential, Contact Angle, DLS, BET, TEM; 
 sol-gel, quantum dot, metal/metal oxide, polymer, core-shell nanoparticles & composites; bioconjugation of
 targeting molecules to surfaces or particles; Java; Microsoft Office, ChemDraw, Origin, IGOR Pro, Adobe InDesign and Illustrator
 ### Achievements
-JSHS National Finalist (2019); GSDSEF 1st Place (2019); Best Abstract Award RCS Nanoscale
-Horizons (2018); State Science Olympiad Medalist; Scholastic Writing Award (2016)
+JSHS National Finalist (2019); GSDSEF 1st Place (2019); Best Abstract Award RCS Nanoscale Horizons (2018); State Science Olympiad Medalist; Scholastic Writing Award (2016)
 ### Interests
 Creative writing & communications, vocal performance, amateur astronomical imaging
